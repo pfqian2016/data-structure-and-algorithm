@@ -1,7 +1,9 @@
 # data-structure-and-algorithm
 ### 一些常用的数据结构及算法的JavaScript描述
-1. 单向链表
-2. 双向链表
-3. 插入排序
-4. 冒泡排序
-5. 快速排序
+1. [二叉树](https://github.com/pfqian2016/data-structure-and-algorithm/blob/master/BinaryTree.js)
+2. [冒泡排序](https://github.com/pfqian2016/data-structure-and-algorithm/blob/master/BubbleSort.js)
+3. [双向链表](https://github.com/pfqian2016/data-structure-and-algorithm/blob/master/DoubleLinkedList.js)
+4. [插入排序](https://github.com/pfqian2016/data-structure-and-algorithm/blob/master/InsertSort.js)
+5. [单向链表](https://github.com/pfqian2016/data-structure-and-algorithm/blob/master/LinkedList.js)
+6. [栈](https://github.com/pfqian2016/data-structure-and-algorithm/blob/master/Stack.js)
+7. [快速排序](https://github.com/pfqian2016/data-structure-and-algorithm/blob/master/QuickSort.js)
